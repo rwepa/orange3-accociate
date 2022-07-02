@@ -2,6 +2,11 @@
 
 python orange3 - accociate tutorial
 
+2022.07.02-orange-associate.pdf
+
+[https://github.com/rwepa/orange3_associate/blob/main/2022.07.02-orange-associate.pdf]
+
+
 大綱:
 
 1.Orange 3 簡介
