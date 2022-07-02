@@ -27,3 +27,6 @@ https://github.com/rwepa/orange3_associate/blob/main/2022.07.02-orange-associate
 4.案例示範
 
 5.Q & A
+
+## Youtube
+https://youtu.be/rh5GxJamtNg
