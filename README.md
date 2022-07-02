@@ -1,6 +1,6 @@
 # python orange3 - accociate tutorial
 
-Orange 3 - Download
+Portable Orange - Download (Orange3-3.32.0.zip, 550MB)
 
 https://orangedatamining.com/download/#windows
 
