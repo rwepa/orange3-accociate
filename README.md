@@ -1,6 +1,7 @@
-# orange3-accociate
+# python orange3 - accociate tutorial
 
-python orange3 - accociate tutorial
+Orange 3 - Download
+https://orangedatamining.com/download/#windows
 
 2022.07.02-orange-associate.pdf
 
