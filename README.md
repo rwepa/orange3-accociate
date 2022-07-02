@@ -1,11 +1,12 @@
 # python orange3 - accociate tutorial
 
 Orange 3 - Download
+
 https://orangedatamining.com/download/#windows
 
 2022.07.02-orange-associate.pdf
 
-[https://github.com/rwepa/orange3_associate/blob/main/2022.07.02-orange-associate.pdf]
+https://github.com/rwepa/orange3_associate/blob/main/2022.07.02-orange-associate.pdf
 
 
 大綱:
