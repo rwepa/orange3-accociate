@@ -4,10 +4,17 @@
 
 https://orangedatamining.com/download/#windows
 
+## Dataset:　northwind_trans.csv
+
+https://github.com/rwepa/DataDemo/blob/master/northwind_trans.csv
+
+## 2022.07.02-orange-associate.ows.zip
+
+https://github.com/rwepa/orange3_associate/blob/main/2022.07.02-orange-associate.ows.zip
+
 ## 2022.07.02-orange-associate.pdf
 
 https://github.com/rwepa/orange3_associate/blob/main/2022.07.02-orange-associate.pdf
-
 
 ## 大綱:
 
