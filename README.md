@@ -1,5 +1,7 @@
 # python orange3 - accociate tutorial
 
+## 本篇說明 Python 的 Orange 模組中,  外掛 Associate 的使用, 包括建立頻繁項目集與關聯規則.
+
 ## Portable Orange - Download (Orange3-3.32.0.zip, 550MB)
 
 https://orangedatamining.com/download/#windows
